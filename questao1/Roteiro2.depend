@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1575922339 source:c:\users\lucas\documents\codes\roteiro2\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+	<iostream>
+
+1575922079 c:\users\lucas\documents\codes\roteiro2\include\mesaderestaurante.h
+	<Pedido.h>
+
+1575914489 source:c:\users\lucas\documents\codes\roteiro2\src\pedido.cpp
+	"Pedido.h"
+	<string>
+
+1575922193 c:\users\lucas\documents\codes\roteiro2\include\pedido.h
+	<string>
+
+1575923725 source:c:\users\lucas\documents\codes\roteiro2\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	<iostream>
+	<vector>
+
+1575923808 c:\users\lucas\documents\codes\roteiro2\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+
+1575924017 source:c:\users\lucas\documents\codes\roteiro2\main.cpp
+	<iostream>
+	<Pedido.h>
+	<MesaDeRestaurante.h>
+	<RestauranteCaseiro.h>
+	<string>
+
