@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1576007576 source:c:\users\lucas\documents\codes\questao2\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1576007646 source:c:\users\lucas\documents\codes\questao2\src\pessoa.cpp
+	"Pessoa.h"
+	<string>
+	<iostream>
+
+1576007668 c:\users\lucas\documents\codes\questao2\include\pessoa.h
+	"Endereco.h"
+	<string>
+
+1576006493 c:\users\lucas\documents\codes\questao2\include\endereco.h
+	<string>
+
+1576006011 source:c:\users\lucas\documents\codes\questao2\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
