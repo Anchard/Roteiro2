@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1576086762 source:c:\users\lucas\documents\codes\questao3\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+
+1576086360 source:c:\users\lucas\documents\codes\questao3\src\consultor.cpp
+	"Consultor.h"
+	"Funcionario.h"
+	<iostream>
+
+1576085782 c:\users\lucas\documents\codes\questao3\include\consultor.h
+	"Funcionario.h"
+
+1576086324 c:\users\lucas\documents\codes\questao3\include\funcionario.h
+	<string>
+
+1576085932 source:c:\users\lucas\documents\codes\questao3\src\funcionario.cpp
+	"Funcionario.h"
+	<string>
+	<iostream>
+
