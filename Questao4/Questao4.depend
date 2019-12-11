@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\lucas\documents\codes\questao4\main.cpp
+	<iostream>
+
+1576087748 source:c:\users\lucas\documents\codes\questao4\src\ciruculo.cpp
+	"Ciruculo.h"
+
+1576087734 c:\users\lucas\documents\codes\questao4\include\ciruculo.h
+
+1576088142 source:c:\users\lucas\documents\codes\questao4\src\quadrado.cpp
+	"Quadrado.h"
+
+1576090477 c:\users\lucas\documents\codes\questao4\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1576089076 source:c:\users\lucas\documents\codes\questao4\src\triangulo.cpp
+	"Triangulo.h"
+	"FiguraGeometrica.h"
+	<iostream>
+
+1576090503 c:\users\lucas\documents\codes\questao4\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1576089083 source:c:\users\lucas\documents\codes\questao4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+	<iostream>
+
+1576089175 c:\users\lucas\documents\codes\questao4\include\figurageometrica.h
+	<string>
+
+1576089067 source:c:\users\lucas\documents\codes\questao4\src\circulo.cpp
+	"Circulo.h"
+	<iostream>
+
+1576090596 c:\users\lucas\documents\codes\questao4\include\circulo.h
+	"FiguraGeometrica.h"
+
