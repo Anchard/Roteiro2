@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1576096149 source:c:\users\lucas\documents\codes\questao5\main.cpp
+	<iostream>
+	"Trabalhador.h"
+	"TrabalhadorPorHora.h"
+	"TrabalhadorAssalariado.h"
+
+1576095787 source:c:\users\lucas\documents\codes\questao5\src\trabalhador.cpp
+	"Trabalhador.h"
+	<iostream>
+
+1576093259 c:\users\lucas\documents\codes\questao5\include\trabalhador.h
+	<string>
+
+1576092694 source:c:\users\lucas\documents\codes\questao5\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1576092994 c:\users\lucas\documents\codes\questao5\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+
+1576096119 source:c:\users\lucas\documents\codes\questao5\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+	<iostream>
+
+1576095626 c:\users\lucas\documents\codes\questao5\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
